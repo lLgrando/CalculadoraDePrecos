@@ -1,19 +1,11 @@
-## Getting Started
+## Descrição
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto referente ao módulo 3 (Programação Orientada a Objetos II) do curso de desenvolvedor Java, ministrado pela Let's Code em parceria com a Americanas.
 
-## Folder Structure
+## Enunciado
 
-The workspace contains two folders by default, where:
+- A calculadora de preços deve ser capaz de calcular o preço final de um produto qualquer, somando o valor do frete e subtraindo o valor do desconto;
+- O principio da responsabilidade unica deve ser respeitado.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# CalculadoraDePrecos
